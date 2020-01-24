@@ -2,6 +2,6 @@ package com.vztot;
 
 public class Main {
     public static void main(String... args) {
-        System.out.println("Хеллоу Китти!");
+        System.out.println("Hello mates!!");
     }
 }
